@@ -18,9 +18,25 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Exploratory Data Analysis 
 -	Model Preprocessing
 -	Model Training
--	
+  
 ### What did you know about your dataset?
 From the data set we get to know that there are 41156 rows and 6 columns and there are only one attribute having null value which is apporoximatly 20% of the dataset so we have removed null value because it is not affecting our analysis for prediction.
+
+### Visualization
+![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/19aad54a-fa64-41f7-add9-718043a9e84c)
+
+![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/1dc8eb1b-551a-4ea1-a994-5c23e1f1ac64)
+
+### Wordplay
+- All words which consist of extremely positive wrods, extremely negetive words, positive words, negetive words, and nutural words.
+- 
+![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/ec06431e-d40b-4090-b770-287398e9931a)
+
+
+
+
+
+
 
 ### 📘 ALGORITHMS USED:
 - Logistic Regression with Grid Search CV
