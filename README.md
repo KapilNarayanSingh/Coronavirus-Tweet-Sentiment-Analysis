@@ -1,6 +1,7 @@
 # CORONAVIRUS TWEET SENTIMENT ANALYSIS
 
-![tweet header](https://user-images.githubusercontent.com/107639055/188276827-a3b1e9d2-88f2-4b07-80b0-e66da7915abd.png)
+![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/95d1fb48-f27c-4d75-af16-def90237dea0)
+
 
 ### 📋 PROBLEM STATEMENT:
 
