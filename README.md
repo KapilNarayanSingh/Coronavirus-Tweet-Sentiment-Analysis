@@ -18,6 +18,8 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Exploratory Data Analysis 
 -	Model Preprocessing
 -	Model Training
+-	
+### 
 
 ### 📘 ALGORITHMS USED:
 - Logistic Regression with Grid Search CV
@@ -35,15 +37,14 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Model Training and performance improvement
 
 ### CONCLUSION:
--	 We conclude that the machine is generating the best results for the Logistic Regression with Grid Search CV (count vectorizer) model with an Accuracy of 78.28% followed by the Logistic Regression with Grid Search CV (TF/ID vectorizer) model with an Accuracy of 77.43%.
--	 Also, we observed that no overfitting is seen for the data, and we can deploy this model.
--	Even being in the unprecedented situation of CoVid-19, people's positive sentiments outnumbered negative sentiments. 
--	However, negative sentiments also has a significant chunk which various Government agencies, NGOs, etc can use to help boost the morale of the people and then
--	In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
+- We first evaluated the model on the basis of multiple classification where we have taken multiple sentiments into consideration which includes positive ,negative, neutral, extremely positive and extremely negative sentiment.
 
-### 📜 CREDITS:
+- After applying various classification algorithm we come to a conclusion that the best is logistic classification with a score of 61 percent.
+- After multiple classification we divided our data into binary classification, in which extremely positive, positive and netral are taken as 0 and extremely negative and negative are taken as 1 for classification.
+- The output after Deploying various Model into the system the best algorithm comes out to be Stochastic Gradient Descent.
+- We have seen confusion matrix for individual cases prediction and seen that lighter part that is i
+has less frequency and darker part has high frequency.
 
-[Gaurav Malakar](https://github.com/gauravmalakar08) | [Anup A. Jambulkar](https://github.com/anup-anny) | [Ankit Walde](https://github.com/AnkitWalde) | [Anil Bhatt](https://github.com/anilbhatt-DataAnalyst) | [Vibhu Sharma](https://github.com/vbhsharma7)
 
 ### 📚 References
 Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
