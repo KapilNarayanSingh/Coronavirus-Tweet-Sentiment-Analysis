@@ -19,7 +19,8 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Model Preprocessing
 -	Model Training
 -	
-### 
+### What did you know about your dataset?
+From the data set we get to know that there are 41156 rows and 6 columns and there are only one attribute having null value which is apporoximatly 20% of the dataset so we have removed null value because it is not affecting our analysis for prediction.
 
 ### 📘 ALGORITHMS USED:
 - Logistic Regression with Grid Search CV
