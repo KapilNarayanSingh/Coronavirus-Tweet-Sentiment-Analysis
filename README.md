@@ -34,10 +34,17 @@ From the data set we get to know that there are 41156 rows and 6 columns and the
 
 ### ML Model Implementation
 - Confusion matrix for training set with SGDclassifier
+  
 ![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/2e023247-5e13-4947-9c41-42f05bc86dbc)
 
 - Test accuracy matrix
-  ![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/8216a66a-1247-4b64-a156-c4f2c6a8e048)
+- Model	Test accuracy
+-	Stochastic Gradient Decent	- 0.865282
+-	Logistic Regression - 	0.862366
+-	Support Vector Machines	- 0.840136
+-	Random Forest -	0.826288
+-	XGBoost -	0.813776
+-	Naive Bayes -	0.790938
 
   
 
