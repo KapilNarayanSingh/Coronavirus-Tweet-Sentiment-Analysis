@@ -32,6 +32,17 @@ From the data set we get to know that there are 41156 rows and 6 columns and the
 - 
 ![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/ec06431e-d40b-4090-b770-287398e9931a)
 
+### ML Model Implementation
+- Confusion matrix for training set with SGDclassifier
+![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/2e023247-5e13-4947-9c41-42f05bc86dbc)
+
+- Test accuracy matrix
+  ![image](https://github.com/KapilNarayanSingh/Coronavirus-Tweet-Sentiment-Analysis/assets/117643744/8216a66a-1247-4b64-a156-c4f2c6a8e048)
+
+  
+
+
+
 
 
 
