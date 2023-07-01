@@ -25,6 +25,8 @@ The objective of our analysis revolved around knowing the sentiments of people f
 - XG Boost 
 - KNN
 - SVM Classifier for both Count Vector and TF ID Vectorization techniques.
+- Naive Bayes
+- Random Forest
 
 ### PROBLEM FACED:
 
